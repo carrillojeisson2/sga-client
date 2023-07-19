@@ -1,0 +1,14 @@
+.users-page {
+    &__add{
+        position: absolute;
+        right: 0;
+        top: 0;
+        // color: red !important;
+
+        >.ui.primary.button {
+            margin: 0;
+            // color: red !important;
+        }
+    }
+
+}
